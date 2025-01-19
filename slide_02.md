@@ -8,7 +8,7 @@
   `' `'   '  `-`-'`-`-'  -' `-`--'    `' -' `-'  '  `-o  
 ```
 
-VIM is a highly configurable text edit or available on most platforms (Linux, macOS, Windows)
+VIM is a highly configurable text editor available on most platforms (Linux, macOS, Windows)
 
 Not just for coding — useful for emails, configuration files, and general text editing
 
